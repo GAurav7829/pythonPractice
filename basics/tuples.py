@@ -15,3 +15,5 @@ print(len(myTuple))
 
 del myTuple #delete whole tuple
 #print(myTuple) #Error: as myTuple is deleted
+
+#tuple is fixed size and list is dynamic
